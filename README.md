@@ -112,14 +112,16 @@ Jeśli chcesz przyczynić się do rozwoju projektu:
 4. Wypchnij do gałęzi (`git push origin feature/amazing-feature`)
 5. Otwórz Pull Request
 
-## 📜 Licencja
-
-Ten projekt jest udostępniany na licencji MIT. Szczegółowe informacje znajdują się w pliku LICENSE.
 
 ## 📞 Kontakt
 
 [![Email](https://img.shields.io/badge/Email-Napisz%20do%20mnie-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:netdark_1966@op.pl)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Darek1966-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darek1966)
+
+## Licencja
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Ten projekt jest licencjonowany na licencji MIT - zobacz plik [LICENSE](LICENSE).
 
 ---
